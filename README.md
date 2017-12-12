@@ -3,6 +3,7 @@
 This is the source code for analysis of Antibiotic Resistance Genes and bacterial community in drinking water samples.
 
 Copyrighter: Environmental Biotechnology Lab, The University of Hong Kong
+
 Contact: zhangt@hku.hk
 
 If use, please cite: 
