@@ -1,3 +1,5 @@
+###Author:Ju Feng, contact:Richieju520@gmail.com
+
 print 'Function: this python script is written for screening and extracting those sequnces with bp_number over [Num] from a fasta file!'
 import time, sys
 from Bio import SeqIO
