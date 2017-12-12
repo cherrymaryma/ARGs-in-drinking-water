@@ -1,3 +1,4 @@
+###Author:Ju Feng, contact:Richieju520@gmail.com
 import os
 import math
 import time, sys
