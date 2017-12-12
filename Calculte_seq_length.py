@@ -1,5 +1,5 @@
-###Author:Ju Feng, Environmental Biotechnology Lab, The University of Hong Kong
-###Contact:Richieju520@gmail.com
+###Author:Environmental Biotechnology Lab, The University of Hong Kong
+###Contact:zhangt@hku.hk
 ###This script is a draft and the author is not responsible for its misuse.
 
 import os
