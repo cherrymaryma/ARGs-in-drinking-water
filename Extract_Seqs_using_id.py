@@ -1,4 +1,6 @@
-###Author:Ju Feng, contact:Richieju520@gmail.com
+###Author:Ju Feng, Environmental Biotechnology Lab, The University of Hong Kong
+###Contact:Richieju520@gmail.com
+###This script is a draft and the author is not responsible for its misuse.
 
 file_name1=raw_input("Enter the full name of id.txt: ")
 file_name2=raw_input("Enter the full name of the database fasta: ") 
