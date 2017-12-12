@@ -1,4 +1,6 @@
-###Author:Ju Feng, contact:Richieju520@gmail.com
+###Author:Ju Feng, Environmental Biotechnology Lab, The University of Hong Kong
+###Contact:Richieju520@gmail.com
+###This script is a draft and the author is not responsible for its misuse.
 
 print 'Function: this python script is written for screening and extracting those sequnces with bp_number over [Num] from a fasta file!'
 import time, sys
