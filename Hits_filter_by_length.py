@@ -1,6 +1,4 @@
-###Author:Ju Feng, Environmental Biotechnology Lab, The University of Hong Kong
-###Contact:Richieju520@gmail.com
-###This script is a draft and the author is not responsible for its misuse.
+###Copyrighter:Environmental Biotechnology Lab, The University of Hong Kong
 
 print 'This script is written for extracting filtering blast hits using reads length and alignment_length coverage!'
 import os
