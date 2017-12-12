@@ -1,3 +1,5 @@
+###Author:Ju Feng, contact:Richieju520@gmail.com
+
 file_name1=raw_input("Enter the full name of id.txt: ")
 file_name2=raw_input("Enter the full name of the database fasta: ") 
 
