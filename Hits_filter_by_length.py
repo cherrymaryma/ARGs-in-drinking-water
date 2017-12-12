@@ -1,3 +1,5 @@
+###Author:Ju Feng, contact:Richieju520@gmail.com
+
 print 'This script is written for extracting filtering blast hits using reads length and alignment_length coverage!'
 import os
 import time, sys
