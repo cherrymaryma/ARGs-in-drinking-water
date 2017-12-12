@@ -1,3 +1,5 @@
+###Author:Ju Feng, contact:Richieju520@gmail.com
+
 import os
 import time, sys
 from Bio import SeqIO
